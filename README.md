@@ -4,7 +4,7 @@
 
 - Company X wishes to sell more products as well as introduce their products to the right customers, take care and satisfy customers.
 
-**Objectives/Problems:** Build a system of customer segmentation based on the information provided by the company, which can help the company identify different customer groups, so that they can make decisions for business strategies and customer care  appropriately.
+**Objectives/Problems:** Build a system of customer segmentation based on the information provided by the company, which can help the company identify different customer groups, so they can make decisions for business strategies and customer care  appropriately.
 
 
 # About Dataset
